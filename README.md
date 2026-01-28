@@ -1,2 +1,2 @@
 # Bandit
-OverTheWire: Bandit
+[OverTheWire: Bandit](https://overthewire.org/wargames/bandit)
